@@ -8,6 +8,7 @@
   * [License](#license)
   * [Tests](#tests)
   * [Demo](#demo)
+  * [Screeenshot](#screenshot)
   * [Questions](#questions)
   ## Installation
   The following necessary dependencies must be installed to run the application: 
@@ -19,7 +20,9 @@
   ## Tests 
   You can test how API routes work in Insomnia core or Postman.
   ## Demo
-  To watch the demo of this project clich here.
+  To watch the demo of this project [click here (Part-1)](https://drive.google.com/file/d/1x3UrsbjkPCTkIWTM49OOGK5CC1KYzrHs/view ) and here [Part-2](https://drive.google.com/file/d/18Lrye0vmbQiJ-Nzc9E87nqvExxjflXO-/view)
+  ## Screenshot
+  ![alt text](https://raw.githubusercontent.com/jypara-git/social-network-API/main/utils/screenshot.png)
   ## Questions
   If you have any questions contact me on [GitHub](https://github.com/jypara-git)
   or email me at zhyparaabdieva@gmail.com
